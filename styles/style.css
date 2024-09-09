@@ -1,0 +1,33 @@
+.main-box {
+    height: 100px; width: 50%;margin: 10px; border-radius: 10px;background-color:green;
+}
+.bigger-box {
+    height: 80px; width: 70%;
+}
+#blue-box {
+    background-color:blue;
+}
+#red-box {
+    background-color:red;
+}
+#yellow-box {
+    background-color:yellow;
+}
+#pink-box {
+    background-color:pink;
+}
+#lightgreen-box {
+    background-color:lightgreen;
+}
+#gray-box {
+    background-color:gray;
+}
+#black-box {
+    background-color:black;
+}
+#purple-box {
+    background-color:purple;
+}
+#orange-box {
+    background-color:orange;
+}
